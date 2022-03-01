@@ -1,0 +1,57 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+main {
+  border-radius: 10px;
+  margin: 20px 270px 20px 270px;
+  padding: 50px;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+  text-align: center;
+  color: rgb(0,255,0);
+}
+
+.sfondo {
+  background-color: rgb(0,255,0);
+  padding: 10px;
+  margin-top: -20px;
+}
+
+.scritta {
+  font-size: 13px;
+  margin-top: 25px;
+  color: white;
+}
+
+.arancio {
+  border-radius: 3px;
+  background-color: orange;
+  width: 25%;
+  height: 20px;
+  margin-top: -10px;
+}
+
+.verde {
+  border-radius: 3px;
+  background-color: rgb(0,255,0);
+  width: 60%;
+  height: 20px;
+  margin-top: -10px;
+}
+
+.rosso {
+  border-radius: 3px;
+  background-color: red;
+  width: 15%;
+  height: 20px;
+  margin-top: -10px;
+  margin-bottom: 50px;
+}
+
+p {
+  margin-top: -10px;
+}
